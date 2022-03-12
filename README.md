@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anatolli34
+- 👋 Hi, I’m Anatoli
 - 👀 I’m interested in interesting things
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
